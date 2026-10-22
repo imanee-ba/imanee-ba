@@ -15,9 +15,8 @@
 
 ## ⚡ Where to find me
 
-[![LinkedIn]([https://www.linkedin.com/in/imane-batri/])
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batriimane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-batri/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanee-ba)
 
 ## 🚀 My Projects
 
